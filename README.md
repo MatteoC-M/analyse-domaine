@@ -1,3 +1,4 @@
+<img width="3839" height="2159" alt="Capture d’écran 2026-11-05 154603" src="https://github.com/user-attachments/assets/dd49da4b-3b64-4e0f-9677-fb275b43d76f" />
 # analyse-domaine
 # Analyse du domaine — Matteo Caravecchia-Mimeault
 
@@ -62,4 +63,4 @@
 
 ## Ma capsule
 
-![Mon interface OBS](obs.png)
+![Mon interface OBS]<img width="3839" height="2159" alt="Capture d’écran 2026-11-05 154603" src="https://github.com/user-attachments/assets/9ca8dc40-e9e9-4e21-b40e-43eafffbc665" />
