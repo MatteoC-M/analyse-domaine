@@ -34,17 +34,18 @@
 
 ### Domaine 2 : Jeux vidéo
 
-- Expérience : Je n'ai pas d'expérience dans la création de jeux vidéo
-- Logiciels et outils : ...
-- Pourquoi il m'intéresse : ...
-- Travailler dans ce domaine : ...
+- Expérience : Je n'ai pas d'expérience dans la création de jeux vidéo mais j'aimerais apprendre comment 
+- Logiciels et outils : j'aimerai apprendre à utiliser Unity studio.
+- Pourquoi il m'intéresse : Car je joue beaucoup au jeux vidéo et je voudrai connètre l'autre côté de la médaille
+- Travailler dans ce domaine : Je pense pouvoir me voir travailler en équipe dans la conception d'un jeux vidéo.
 
 ## Les caractéristiques de mon domaine préféré
 
-- Types d'entreprises : ...
-- Exemple d'entreprise : ...
+- Types d'entreprises : Studios de développement
+- Exemple d'entreprise : Ubisoft Montréal 
 
-![Nom de l'entreprise](entreprise.jpg)
+![Ubisoft Montréal](<img width="400" height="400" alt="logo-ubisoft-montreal" src="https://github.com/user-attachments/assets/c7781c13-41df-45f5-9163-3c25017e0202" />
+)
 
 (source de l'image : ...)
 
